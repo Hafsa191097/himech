@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "161158754674",
+    "project_id": "himech-14151",
+    "storage_bucket": "himech-14151.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161158754674:android:82d51d60d507cfc1fdadeb",
+        "android_client_info": {
+          "package_name": "com.example.himech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161158754674-ue1trm4n529cvdc70rgiajv02d1cvkgs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj4UgmT69QViDcYqt_EtHIvuLnjq6zkzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161158754674-ue1trm4n529cvdc70rgiajv02d1cvkgs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
